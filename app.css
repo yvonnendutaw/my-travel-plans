@@ -1,4 +1,7 @@
-html {
+
+.destination:hover h2 {
+    transform: rotate(0deg);
+}html {
     box-sizing: border-box;
     height: 100%;
 }
